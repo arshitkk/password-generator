@@ -1,6 +1,3 @@
-Here’s a simple addition to include a **Preview Screenshot** section in your README:
-
----
 
 # Password Generator
 
